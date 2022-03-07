@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amjad Alshalabi</h1>
 
-- 🤔 I’m looking ffor a job as a backend developer (python, django, sql, mongodb, ...)
+- 🤔 I’m looking for a job as a backend developer (python, django, sql, mongodb, ...)
 - 📫 How to reach me **amjad.alshalabi.11@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
